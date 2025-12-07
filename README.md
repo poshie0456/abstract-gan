@@ -4,6 +4,11 @@ A simple **DCGAN** implemented in **PyTorch** to generate abstract images. [Desc
 
 ---
 
+## How to use [Important]
+- The training data this model was tested with can be found here: https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
+- This is meant to run on consumer laptops just for educational purposes, hence the quality of images is cropped to 64x64 in pre processing
+---
+
 ## Features
 
 * **Custom Dataset & Augmentation:** Flexible PyTorch Dataset with random flips, rotations, and resizing
